@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/CreationalPattern/AbstractFactoryPattern/AbstractFactoryPattern.iml" filepath="$PROJECT_DIR$/CreationalPattern/AbstractFactoryPattern/AbstractFactoryPattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/CreationalPattern/FactoryPattern/FactoryPattern.iml" filepath="$PROJECT_DIR$/CreationalPattern/FactoryPattern/FactoryPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreationalPattern/SingletonPattern/SingletonPattern.iml" filepath="$PROJECT_DIR$/CreationalPattern/SingletonPattern/SingletonPattern.iml" />
     </modules>
   </component>
 </project>
